@@ -20,12 +20,12 @@ English, Hindi or Hinglish · vertical or landscape · built from scratch, first
 <table align="center">
 <tr><th>UPI PIN (Hindi)</th><th>QR codes (English)</th></tr>
 <tr>
-<td><img src="media/upi-pin-hindi.gif" width="240"></td>
-<td><img src="media/qr-code-english.gif" width="240"></td>
+<td><img src="upi-pin-hindi.gif" width="240"></td>
+<td><img src="qr-code-english.gif" width="240"></td>
 </tr>
 <tr>
-<td align="center"><a href="media/upi-pin-hindi.mp4">▶ Watch with sound</a></td>
-<td align="center"><a href="media/qr-code-english.mp4">▶ Watch with sound</a></td>
+<td align="center"><a href="upi-pin-hindi.mp4">▶ Watch with sound</a></td>
+<td align="center"><a href="qr-code-english.mp4">▶ Watch with sound</a></td>
 </tr>
 </table>
 
