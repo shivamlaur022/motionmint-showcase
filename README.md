@@ -176,5 +176,5 @@ My first videos looked like slideshows, a new picture every few seconds. They on
 ---
 
 <p align="center">
-Shivam Laur · <a href="mailto:proffesorrk@gmail.com">proffesorrk@gmail.com</a> · <a href="https://www.linkedin.com/in/shivam-kumar-28b40b306/">LinkedIn</a>
+Shivam Kumar · <a href="mailto:proffesorrk@gmail.com">proffesorrk@gmail.com</a> · <a href="https://www.linkedin.com/in/shivam-kumar-28b40b306/">LinkedIn</a>
 </p>
